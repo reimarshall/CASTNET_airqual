@@ -1,0 +1,41 @@
+Appendix 
+
+Table 1. Correlations between meteorological factors ad ozone/trace level gases 
+
+ 	Ozone	CO	NO
+ 	uCoeff	aCoeff	uCoeff	aCoeff	uCoeff	aCoeff
+Temperature	0.5978	0.525*	0.3000	 1.2190*	-0.0180	-9.06e-3 *
+Relative Humidity	-0.7279	-0.357*	-0.0197	 0.2001*	-0.0216	 1.01e-4
+Solar Radiation	0.5747	0.0079*	0.0611	 -0.0014	0.0852	 5.10e-4 *
+Precipitation	0.0158	1.3826*	-0.0390	 -3.2600*	-0.0180	 -1.53e-2
+Windspeed	0.0921	0.8144*	-0.2087	 -1.8835*	-0.0508	 -2.53e-2 *
+Wind Direction	-0.0819	-0.0015*	-0.1578	 -0.0356*	-0.0233	 -2.95e-4 *
+Wetness	-0.2726	-0.3148*	0.0324	 0.1838	0.0069	 8.78e-2 *
+uCoeff= Unadjusted correlation coefficients; aCoeff = Adjusted correlation coefficients in a regression model. *Statistically significant (p<0.005)
+
+
+	NOy	SO2
+	uCoeff	aCoeff	uCoeff	aCoeff
+Temperature	-0.0020	-0.0198*	0.0457	0.0152*
+Relative Humidity	0.0220	-0.0025	-0.0480	-0.0087*
+Solar Radiation	-0.0783	-0.0019*	0.0268	-0.0001
+Precipitation	-0.0267	-0.2215*	-0.00006	-0.0292
+Windspeed	-0.1595	-0.3956*	0.0403	0.0736*
+Wind Direction	-0.1450	-0.0089*	-0.0156	-0.0005
+Wetness	-0.0132	-0.5581*	0.0079	0.3321*
+uCoeff= Unadjusted correlation coefficients; aCoeff = Adjusted correlation coefficients in a regression model. *Statistically significant (p<0.005)
+
+
+Table2. Average levels of Ozone and trace gases in ppb by study sites
+
+SITE_ID	Ozone	CO	NO	NOY	SO2
+Bondville, IL (BVL 130)	32.03	100.86	0.28	4.35	0.68
+Canyonlands National Park, UT (CHC432)	41.32	-	2.01	-	-
+Duke Forest, NC (DUK008)	36.01	-	0.28	2.47	-
+Great Smoky Mountains, TN (GRS420)	41.20	165.36	2.16	3.76	2.86
+Mackville, KY (MAC426)	34.07	157.64	1.65	4.27	2.26
+Pinedale, WY (PND165)	46.25	-	0.24	0.83	-
+Rocky Mountain National Park, CO (ROM206)	46.16	-	0.09	1.08	-
+P-value	<2e-16	<2e-16	<2e-16	<2e-16	<2e-16
+A (F-statistic)	10123	5799	114.17	732.74	83.974
+num df	6	2	6	5	2
